@@ -1,3 +1,0 @@
-#include<iostream>
-kdjfjgh
-decltype
